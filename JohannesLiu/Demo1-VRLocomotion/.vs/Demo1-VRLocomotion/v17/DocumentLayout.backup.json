@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\portfolio-2-SheperdHannigan\\Demo1-VRLocomotion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBC8FD7-9365-4937-0636-70E2503AF3E6}|Assembly-CSharp.csproj|d:\\portfolio-2-sheperdhannigan\\demo1-vrlocomotion\\assets\\scripts\\audiocapturetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBC8FD7-9365-4937-0636-70E2503AF3E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiocapturetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\portfolio-2-SheperdHannigan\\Demo1-VRLocomotion\\Assets\\Scripts\\ONNXInstrumentTranscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ONNXInstrumentTranscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johan\\Downloads\\barracuda-release-3.0.0\\Barracuda\\Tests\\Editor\\BasicNNInferenceTestSuite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johan\\Downloads\\barracuda-release-3.0.0\\Barracuda\\Tests\\Editor\\Unity.Barracuda.Editor.Tests.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioCaptureTester.cs",
+              "DocumentMoniker": "D:\\portfolio-2-SheperdHannigan\\Demo1-VRLocomotion\\Assets\\Scripts\\AudioCaptureTester.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioCaptureTester.cs",
+              "ToolTip": "D:\\portfolio-2-SheperdHannigan\\Demo1-VRLocomotion\\Assets\\Scripts\\AudioCaptureTester.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioCaptureTester.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:59:19.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ONNXInstrumentTranscription.cs",
+              "DocumentMoniker": "D:\\portfolio-2-SheperdHannigan\\Demo1-VRLocomotion\\Assets\\Scripts\\ONNXInstrumentTranscription.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ONNXInstrumentTranscription.cs",
+              "ToolTip": "D:\\portfolio-2-SheperdHannigan\\Demo1-VRLocomotion\\Assets\\Scripts\\ONNXInstrumentTranscription.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ONNXInstrumentTranscription.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:05:02.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicNNInferenceTestSuite.cs",
+              "DocumentMoniker": "C:\\Users\\Johan\\Downloads\\barracuda-release-3.0.0\\Barracuda\\Tests\\Editor\\BasicNNInferenceTestSuite.cs",
+              "ToolTip": "C:\\Users\\Johan\\Downloads\\barracuda-release-3.0.0\\Barracuda\\Tests\\Editor\\BasicNNInferenceTestSuite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:23:33.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unity.Barracuda.Editor.Tests.asmdef",
+              "DocumentMoniker": "C:\\Users\\Johan\\Downloads\\barracuda-release-3.0.0\\Barracuda\\Tests\\Editor\\Unity.Barracuda.Editor.Tests.asmdef",
+              "ToolTip": "C:\\Users\\Johan\\Downloads\\barracuda-release-3.0.0\\Barracuda\\Tests\\Editor\\Unity.Barracuda.Editor.Tests.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2025-10-27T04:23:26.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
