@@ -1,2 +1,0 @@
-D:\portfolio-2-SheperdHannigan\Demo1-VRLocomotion\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-D:\portfolio-2-SheperdHannigan\Demo1-VRLocomotion\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
